@@ -1,0 +1,3 @@
+"LambdasColecciones" en Java:
+
+"LambdasColecciones es un proyecto Java que aprovecha las características modernas del lenguaje, como expresiones lambda y manipulación funcional de colecciones. El proyecto incluye implementaciones eficientes y concisas para diversas operaciones utilizando lambdas y Streams de Java. Entre las funcionalidades, se destacan la conversión de una lista de cadenas a mayúsculas y la concatenación de palabras que superan una longitud específica en una lista, todo ello siguiendo las prácticas más actuales de desarrollo en Java. Este proyecto es una muestra de cómo utilizar estas características para mejorar la legibilidad y eficiencia del código en aplicaciones Java."
